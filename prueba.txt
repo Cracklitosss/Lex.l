@@ -1,0 +1,9 @@
+while (x <= 100) {
+    if (x == 50 && y == 3.14) {
+        string resultado = "Valor encontrado";
+    }
+    /* Este es un comentario
+       de multiple linea */
+    x = x + 1;
+    y = y * 2;
+}
